@@ -24,9 +24,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kajirikajiri/eslint-plugin-mui-path-imports"
+    "url": "https://github.com/DaveITpl/eslint-plugin-mui-path-imports-eslint9"
   },
   "dependencies": {
+    "@semantic-release/changelog": "^6.0.3",
     "eslint-plugin-n": "^17.13.1",
     "requireindex": "^1.2.0"
   },
