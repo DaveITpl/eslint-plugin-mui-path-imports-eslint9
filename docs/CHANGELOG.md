@@ -1,3 +1,10 @@
+## [1.3.7](https://github.com/DaveITpl/eslint-plugin-mui-path-imports-eslint9/compare/v1.3.6...v1.3.7) (2024-11-14)
+
+
+### Bug Fixes
+
+* fix import json ([5771f6a](https://github.com/DaveITpl/eslint-plugin-mui-path-imports-eslint9/commit/5771f6aee4374a7d57fd7f2b6df370631707a5c2))
+
 ## [1.3.6](https://github.com/DaveITpl/eslint-plugin-mui-path-imports-eslint9/compare/v1.3.5...v1.3.6) (2024-11-14)
 
 
