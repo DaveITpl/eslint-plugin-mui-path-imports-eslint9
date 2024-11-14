@@ -27,11 +27,12 @@
     "url": "https://github.com/DaveITpl/eslint-plugin-mui-path-imports-eslint9"
   },
   "dependencies": {
-    "@semantic-release/changelog": "^6.0.3",
     "eslint-plugin-n": "^17.13.1",
     "requireindex": "^1.2.0"
   },
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
     "@eslint/eslintrc": "^3.1.0",
     "@eslint/js": "^9.14.0",
     "@typescript-eslint/parser": "^8.14.0",
