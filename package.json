@@ -11,7 +11,7 @@
     "path-import"
   ],
   "type": "module",
-  "author": "kajirikajiri",
+  "author": "DaveITpl",
   "main": "lib/index.js",
   "files": [
     "lib"
