@@ -8,15 +8,15 @@
 // Requirements
 //------------------------------------------------------------------------------
 
-const rule = require("../../../lib/rules/mui-path-imports"),
-  RuleTester = require("eslint").RuleTester;
+const rule = import("../../../lib/rules/mui-path-imports"),
+  RuleTester = import("eslint").RuleTester;
 
 //------------------------------------------------------------------------------
 // Tests
 //------------------------------------------------------------------------------
 
 const ruleTester = new RuleTester({
-  parser: require.resolve('@typescript-eslint/parser'),
+  parser: import('@typescript-eslint/parser'),
 });
 ruleTester.run("rule", rule, {
   valid: [
