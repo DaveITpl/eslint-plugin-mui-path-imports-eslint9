@@ -1,3 +1,10 @@
+## [1.3.5](https://github.com/DaveITpl/eslint-plugin-mui-path-imports-eslint9/compare/v1.3.4...v1.3.5) (2024-11-14)
+
+
+### Bug Fixes
+
+* eslint config ([d388119](https://github.com/DaveITpl/eslint-plugin-mui-path-imports-eslint9/commit/d388119b4fc3fbf2da7de895f0167eb1708be523))
+
 ## [1.3.4](https://github.com/DaveITpl/eslint-plugin-mui-path-imports-eslint9/compare/v1.3.3...v1.3.4) (2024-11-14)
 
 
